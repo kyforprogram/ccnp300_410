@@ -1657,6 +1657,9 @@
         <mxCell id="wfV49XsxJHOofvk-cEGl-73" value="LDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="145.06090373280944" y="413.0570098894707" width="150.20039292730846" height="29.059952776922284" as="geometry" />
         </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-195" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-74" target="wfV49XsxJHOofvk-cEGl-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-74" value="IP Routing Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="145.06090373280944" y="364.9950326797386" width="150.20039292730846" height="29.059952776922284" as="geometry" />
         </mxCell>
@@ -1677,6 +1680,9 @@
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-82" value="LDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="522.7387033398821" y="413.0570098894707" width="150.20039292730846" height="29.059952776922284" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-196" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-83" target="wfV49XsxJHOofvk-cEGl-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-83" value="IP Routing Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="522.7387033398821" y="364.9950326797386" width="150.20039292730846" height="29.059952776922284" as="geometry" />
@@ -1815,6 +1821,9 @@
         <mxCell id="wfV49XsxJHOofvk-cEGl-129" value="LDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="129.56090373280944" y="978.0570098894707" width="150.20039292730846" height="29.059952776922284" as="geometry" />
         </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-193" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-130" target="wfV49XsxJHOofvk-cEGl-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-130" value="IP Routing Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="129.56090373280944" y="929.9950326797386" width="150.20039292730846" height="29.059952776922284" as="geometry" />
         </mxCell>
@@ -1835,6 +1844,9 @@
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-136" value="LDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="507.23870333988214" y="978.0570098894707" width="150.20039292730846" height="29.059952776922284" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-194" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-137" target="wfV49XsxJHOofvk-cEGl-136">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-137" value="IP Routing Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="507.23870333988214" y="929.9950326797386" width="150.20039292730846" height="29.059952776922284" as="geometry" />
@@ -1962,6 +1974,9 @@
         <mxCell id="wfV49XsxJHOofvk-cEGl-168" value="LDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="129.56090373280944" y="1551.0570098894707" width="150.20039292730846" height="29.059952776922284" as="geometry" />
         </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-191" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-169" target="wfV49XsxJHOofvk-cEGl-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-169" value="IP Routing Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="129.56090373280944" y="1502.9950326797386" width="150.20039292730846" height="29.059952776922284" as="geometry" />
         </mxCell>
@@ -1982,6 +1997,9 @@
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-175" value="LDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="507.23870333988214" y="1551.0570098894707" width="150.20039292730846" height="29.059952776922284" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-192" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-176" target="wfV49XsxJHOofvk-cEGl-175">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-176" value="IP Routing Table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="507.23870333988214" y="1502.9950326797386" width="150.20039292730846" height="29.059952776922284" as="geometry" />
@@ -2054,6 +2072,9 @@
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-189" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ラベル情報の交換&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="1629" width="103" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-190" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;　◆　&lt;/span&gt;&lt;u style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot;&gt;MPLS - LDPのネイバー確立（ Ciscoでの設定例 ）&lt;/u&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="23.001675734746925" y="1371.003987630208" width="441" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
