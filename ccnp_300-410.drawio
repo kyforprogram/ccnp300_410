@@ -1683,15 +1683,13 @@
             <mxPoint x="17.5" y="721" as="sourcePoint" />
             <mxPoint x="793" y="725" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="179" y="730" />
-              <mxPoint x="200" y="713" />
+              <mxPoint x="177" y="725" />
+              <mxPoint x="198" y="713" />
               <mxPoint x="208" y="671" />
               <mxPoint x="221" y="609" />
               <mxPoint x="233" y="676" />
               <mxPoint x="254" y="725" />
               <mxPoint x="311" y="733" />
-              <mxPoint x="377" y="730" />
-              <mxPoint x="472" y="727" />
               <mxPoint x="564" y="730" />
               <mxPoint x="586" y="676" />
               <mxPoint x="597" y="604" />
@@ -1920,6 +1918,9 @@
         <mxCell id="wfV49XsxJHOofvk-cEGl-216" value="LFIB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wfV49XsxJHOofvk-cEGl-210">
           <mxGeometry x="390.73870333988214" y="77.48360655737692" width="150.20039292730846" height="39.86475409836065" as="geometry" />
         </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-244" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ラベル情報の交換&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TCP:646&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;RSVP-TE&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="wfV49XsxJHOofvk-cEGl-210">
+          <mxGeometry x="225.5" y="-9" width="103" height="43" as="geometry" />
+        </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-217" value="コントロールプレーン" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="1777" width="176.3222003929273" height="218.00000000000003" as="geometry" />
         </mxCell>
@@ -1927,6 +1928,12 @@
           <mxGeometry x="143.06090373280944" y="1955.9995897067379" width="150.20039292730846" height="29.059952776922284" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-219" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=classic;" edge="1" source="wfV49XsxJHOofvk-cEGl-220" target="wfV49XsxJHOofvk-cEGl-218" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-296" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-220" target="wfV49XsxJHOofvk-cEGl-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-298" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-220" target="wfV49XsxJHOofvk-cEGl-243">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-220" value="LDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -2027,14 +2034,17 @@
         <mxCell id="wfV49XsxJHOofvk-cEGl-241" value="&lt;u style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot;&gt;MPLS - LDPのネイバー確立の流れ&lt;/u&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="317" y="1877.0000000000002" width="180" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-297" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-242" target="wfV49XsxJHOofvk-cEGl-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-242" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TCPコネクションの確立&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TCP:646&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="344.84000000000003" y="1946" width="127.32" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-299" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-243" target="wfV49XsxJHOofvk-cEGl-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-243" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;LDPセッションの確立&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TCP:646&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="350" y="1974.88" width="117" height="16.94" as="geometry" />
-        </mxCell>
-        <mxCell id="wfV49XsxJHOofvk-cEGl-244" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ラベル情報の交換&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: メイリオ; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TCP:646&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="361.5" y="1999.88" width="103" height="21" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-250" value="router ospf 1&lt;div&gt;network 1.1.1.1 0.0.0.0 area 0&lt;/div&gt;&lt;div&gt;network 192.168.1.1 0.0.0.0 area 0&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="132" y="1468" width="204" height="55" as="geometry" />
@@ -2127,6 +2137,12 @@
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-13" value="&lt;div&gt;PE&lt;/div&gt;LER&lt;div&gt;lo:1.1.1.2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="583.5" y="2562.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-300" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-244" target="wfV49XsxJHOofvk-cEGl-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-301" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-244" target="wfV49XsxJHOofvk-cEGl-220">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
