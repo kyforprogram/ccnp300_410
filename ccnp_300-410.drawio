@@ -1526,13 +1526,13 @@
           <mxGeometry x="209" y="42" width="379" height="167" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-2" value="Label&lt;div&gt;20bit&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="209" y="130.10236220472441" width="208" height="78.8976377952756" as="geometry" />
+          <mxGeometry x="209" y="130.1" width="175" height="78.9" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-3" value="TTL&lt;div&gt;8bit&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="504" y="130.10236220472441" width="84" height="78.8976377952756" as="geometry" />
         </mxCell>
-        <mxCell id="wfV49XsxJHOofvk-cEGl-4" value="EXP&lt;div&gt;3bit&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="415" y="130.10236220472441" width="56" height="78.8976377952756" as="geometry" />
+        <mxCell id="wfV49XsxJHOofvk-cEGl-4" value="EXP&lt;div&gt;3bit&lt;/div&gt;&lt;div&gt;(Implicit 3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Explicit 0)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="377" y="130.1" width="94" height="78.9" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-5" value="S&lt;div&gt;1bit&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="471" y="130.10236220472441" width="34" height="78.8976377952756" as="geometry" />
