@@ -1485,7 +1485,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E3HEv0I-OBAg6fPCdvR9" name="MPLS">
-    <mxGraphModel dx="2304" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3327" dy="1277" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2150,7 +2150,7 @@
           <mxGeometry x="73.59" y="4380" width="649.82" height="348" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-304" value="&lt;pre style=&quot;margin: 10px 0px; padding: 0px 0px 5px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 300; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: courier; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; white-space: pre-wrap; max-width: 97%; overflow: auto; display: block; color: rgb(88, 88, 91); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;pre style=&quot;margin-top: 10px; margin-bottom: 10px; padding: 0px 0px 5px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: inherit; font-family: courier; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-wrap-mode: wrap; max-width: 97%; overflow: auto;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; text-align: center; white-space-collapse: collapse; background-color: rgb(236, 236, 236);&quot;&gt;PE-1&lt;/span&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; text-align: center; white-space-collapse: collapse; background-color: rgb(236, 236, 236);&quot;&gt;lo:10.10.10.4&lt;/div&gt;&lt;/pre&gt;&lt;pre style=&quot;margin-top: 10px; margin-bottom: 10px; padding: 0px 0px 5px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: inherit; font-family: courier; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-wrap-mode: wrap; max-width: 97%; overflow: auto;&quot;&gt;vrf definition Client_A&lt;br&gt; rd 100:110&lt;br&gt; route-target export 100:1000&lt;br&gt; route-target import 100:1000&amp;nbsp; &lt;br&gt; !&lt;br&gt; address-family ipv4&lt;br&gt; exit-address-family&lt;/pre&gt;&lt;pre style=&quot;margin-top: 10px; margin-bottom: 10px; padding: 0px 0px 5px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: inherit; font-family: courier; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-wrap-mode: wrap; max-width: 97%; overflow: auto;&quot;&gt;vrf definition Client_B&lt;br&gt; rd 100:120&lt;br&gt; route-target export 100:2000&lt;br&gt; route-target import 100:2000&lt;br&gt; !&lt;br&gt; address-family ipv4&lt;br&gt; exit-address-family&amp;nbsp; &lt;br&gt;!&lt;br&gt;&lt;br&gt;interface Loopback0&lt;br&gt; ip address 10.10.10.4 255.255.255.255&lt;br&gt; ip router isis &amp;nbsp;&lt;/pre&gt;&lt;/pre&gt;&lt;pre style=&quot;margin: 10px 0px; padding: 0px 0px 5px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 300; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: courier; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; white-space: pre-wrap; max-width: 97%; overflow: auto; display: block; color: rgb(88, 88, 91); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;pre style=&quot;margin-top: 10px; margin-bottom: 10px; padding: 0px 0px 5px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: inherit; font-family: courier; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-wrap-mode: wrap; max-width: 97%; overflow: auto;&quot;&gt;interface GigabitEthernet0/1&lt;br&gt; vrf forwarding Client_A&lt;br&gt; ip address 10.0.4.2 255.255.255.0&lt;br&gt; duplex auto&lt;br&gt; speed auto&lt;br&gt; media-type rj45&lt;br&gt;!&lt;br&gt;interface GigabitEthernet0/2&lt;br&gt; vrf forwarding Client_B&lt;br&gt; ip address 10.0.4.2 255.255.255.0&lt;br&gt; duplex auto&lt;br&gt; speed auto&lt;br&gt; media-type rj45&amp;nbsp; &lt;/pre&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-517" y="4728" width="503" height="730" as="geometry" />
+          <mxGeometry x="-503" y="4660" width="353" height="730" as="geometry" />
         </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-308" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-305" target="wfV49XsxJHOofvk-cEGl-306">
           <mxGeometry relative="1" as="geometry" />
@@ -2178,6 +2178,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-336" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-305" target="wfV49XsxJHOofvk-cEGl-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wfV49XsxJHOofvk-cEGl-305" value="PE-1&lt;div&gt;lo:10.10.10.4&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="304" y="4985" width="80" height="80" as="geometry" />
         </mxCell>
@@ -2200,8 +2203,60 @@
             <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wfV49XsxJHOofvk-cEGl-315" value="P-1&lt;div&gt;lo:10.10.10.1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="304" y="5172" width="80" height="80" as="geometry" />
+        <mxCell id="wfV49XsxJHOofvk-cEGl-315" value="P-1&lt;div&gt;lo:10.10.10.1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="304" y="5200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-321" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" source="wfV49XsxJHOofvk-cEGl-327" target="wfV49XsxJHOofvk-cEGl-328" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-322" value="10.0.4.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="wfV49XsxJHOofvk-cEGl-321">
+          <mxGeometry x="0.1056" y="-1" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-323" value="G0/1&lt;div&gt;.2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="wfV49XsxJHOofvk-cEGl-321">
+          <mxGeometry x="-0.7918" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-324" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" source="wfV49XsxJHOofvk-cEGl-327" target="wfV49XsxJHOofvk-cEGl-329" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-325" value="10.0.4.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="wfV49XsxJHOofvk-cEGl-324">
+          <mxGeometry x="-0.0169" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-326" value="G0/2&lt;div&gt;.2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="wfV49XsxJHOofvk-cEGl-324">
+          <mxGeometry x="-0.8086" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-337" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-327" target="wfV49XsxJHOofvk-cEGl-338">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1071" y="5019.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-327" value="PE-2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="657" y="4985" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-328" value="CE-A1&lt;div&gt;AS65002&lt;/div&gt;&lt;div&gt;rd 100:110&lt;/div&gt;&lt;div&gt;Client_A&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="804" y="4815" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-329" value="CE-B1&lt;div&gt;AS65001&lt;/div&gt;&lt;div&gt;rd 100:120&lt;/div&gt;&lt;div&gt;Client_B&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="657" y="4749" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-335" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wfV49XsxJHOofvk-cEGl-334" target="wfV49XsxJHOofvk-cEGl-327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-334" value="P-２" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="657" y="5200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-338" value="hostname PE-2&#xa;!&#xa;ip cef&#xa;!&#xa;vrf definition Client_A&#xa; rd 100:110&#xa; route-target export 100:1000&#xa; route-target import 100:1000&#xa; !&#xa; address-family ipv4&#xa; exit-address-family&#xa;!     &#xa;vrf definition Client_B&#xa; rd 100:120&#xa; route-target export 100:2000&#xa; route-target import 100:2000&#xa; !&#xa; address-family ipv4&#xa; exit-address-family&#xa;!&#xa;ip cef" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="4863" width="216" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="wfV49XsxJHOofvk-cEGl-339" value="RP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="477.84" y="5356" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
