@@ -2694,7 +2694,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-sLlMCO-whzkX-FPBAzP-1" value="en&#xa;conf t&#xa;no ip domain lookup&#xa;line con 0&#xa;logging sync&#xa;line vty 0&#xa;logging sync" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="47.001385498046886" y="42.99777099609375" width="126" height="114" as="geometry" />
+          <mxGeometry x="26.001385498046886" y="36.99777099609375" width="126" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
