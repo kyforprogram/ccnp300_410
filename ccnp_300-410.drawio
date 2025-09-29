@@ -741,7 +741,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n_FmT6C4dnm-ZhYBsY1W" name="IPSEC">
-    <mxGraphModel dx="563" dy="510" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="366" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1766,7 +1766,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qZ3liuq4oz5AHZv5AEdD-18" value="G0/0&lt;div&gt;.1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qZ3liuq4oz5AHZv5AEdD-11">
+        <mxCell id="qZ3liuq4oz5AHZv5AEdD-18" value="G0/0&lt;div&gt;.2&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qZ3liuq4oz5AHZv5AEdD-11">
           <mxGeometry x="0.8099" y="3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -1797,6 +1797,9 @@
         </mxCell>
         <mxCell id="qZ3liuq4oz5AHZv5AEdD-24" value="IP SEC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
           <mxGeometry x="3486" y="2032.75" width="374" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vDBLP-nTiBWYRZFZIMWe-1" value="en&#xa;conf t&#xa;no ip domain lookup&#xa;line con 0&#xa;logging sync&#xa;line vty 0&#xa;logging sync" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3490" y="2385" width="126" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
