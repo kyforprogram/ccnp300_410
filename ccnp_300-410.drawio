@@ -2991,17 +2991,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" value="監視" vertex="1">
+          <mxGeometry height="305" width="851" x="-439" y="-2678" as="geometry" />
+        </mxCell>
+        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" value="災害" vertex="1">
+          <mxGeometry height="241" width="693" x="-1557" y="-2668" as="geometry" />
+        </mxCell>
+        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" value="主系" vertex="1">
+          <mxGeometry height="241" width="693" x="-1554" y="-2987" as="geometry" />
+        </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" value="業務通信" vertex="1">
           <mxGeometry height="305" width="851" x="-439" y="-3045" as="geometry" />
+        </mxCell>
+        <mxCell id="Y043HbOtcqoFdXWQxunV-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;verticalAlign=top;dashed=1;dashPattern=1 4;" value="OSPF 10&lt;div&gt;area 0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="899" width="646" x="-980" y="-3164" as="geometry" />
         </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-94" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;verticalAlign=top;dashed=1;" value="192.168.0.0/24" vertex="1">
           <mxGeometry height="135" width="230" x="-394" y="-2952" as="geometry" />
         </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-31" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="WAN&lt;div&gt;ospf 10 area 0&lt;/div&gt;&lt;div&gt;203.0.113.0/28&lt;/div&gt;&lt;div&gt;203.0.113.16/28&lt;/div&gt;" vertex="1">
           <mxGeometry height="387" width="373" x="-832" y="-2911" as="geometry" />
-        </mxCell>
-        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" value="主系" vertex="1">
-          <mxGeometry height="241" width="693" x="-1554" y="-2987" as="geometry" />
         </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;verticalAlign=top;dashed=1;dashPattern=1 4;" value="OSPF 10&lt;div&gt;area 0&lt;/div&gt;" vertex="1">
           <mxGeometry height="271" width="847" x="-438" y="-3015" as="geometry" />
@@ -3016,9 +3025,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-867.0000000000005" y="-2537" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" value="監視" vertex="1">
-          <mxGeometry height="305" width="851" x="-439" y="-2678" as="geometry" />
         </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;verticalAlign=top;dashed=1;dashPattern=1 4;" value="OSPF 100" vertex="1">
           <mxGeometry height="271" width="847" x="-438" y="-2648" as="geometry" />
@@ -3202,9 +3208,6 @@
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="サーバ&lt;div&gt;X&lt;/div&gt;&lt;div&gt;10.0.10.1&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-1553" y="-2945" as="geometry" />
         </mxCell>
-        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" value="災害" vertex="1">
-          <mxGeometry height="241" width="693" x="-1557" y="-2668" as="geometry" />
-        </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-59" edge="1" parent="1" source="5uJ-bEpy_nnRuDQG2WZZ-54" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="5uJ-bEpy_nnRuDQG2WZZ-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3316,9 +3319,6 @@
         </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="PCB&lt;div&gt;DGW:192.168.20.254&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="254" y="-2874" as="geometry" />
-        </mxCell>
-        <mxCell id="Y043HbOtcqoFdXWQxunV-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;verticalAlign=top;dashed=1;dashPattern=1 4;" value="OSPF 10&lt;div&gt;area 0&lt;/div&gt;" vertex="1">
-          <mxGeometry height="899" width="646" x="-980" y="-3164" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
