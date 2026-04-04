@@ -2987,7 +2987,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mpGYDStZPjZb1cOUicXp" name="ページ-12">
-    <mxGraphModel dx="4349" dy="4064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5053" dy="4456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3125,7 +3125,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="PCA" vertex="1">
+        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="PCA&lt;div&gt;DGW:192.168.10.254&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="254" y="-2959" as="geometry" />
         </mxCell>
         <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="L3" vertex="1">
@@ -3314,7 +3314,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="PCB" vertex="1">
+        <mxCell id="5uJ-bEpy_nnRuDQG2WZZ-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="PCB&lt;div&gt;DGW:192.168.20.254&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="254" y="-2874" as="geometry" />
         </mxCell>
       </root>
