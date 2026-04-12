@@ -3630,6 +3630,12 @@
         <mxCell id="rvtbXMgysmUV0HTNM3-1-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;203.0.113.0/24&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="45" width="90" x="-243" y="-4382.5" as="geometry" />
         </mxCell>
+        <mxCell id="BT3-p1I1DPar07qKTHe1-1" parent="1" style="whiteSpace=wrap;html=1;" value="R11から10.0.0.1へPingを打つとメインに届く&lt;div&gt;メインが死んだ場合はバックアップの10.0.0.1に届く&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="182" y="-4903" as="geometry" />
+        </mxCell>
+        <mxCell id="BT3-p1I1DPar07qKTHe1-2" parent="1" style="whiteSpace=wrap;html=1;" value="監視はメインとバックアップのみ通信できる&lt;div&gt;Ａ社とは通信しない&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="176" y="-4532" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
